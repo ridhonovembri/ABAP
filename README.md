@@ -1,5 +1,5 @@
 # Following items are the parts of ABAP Materials
-# created by Ridho Novembri, Jan, 2014
+# Created by Ridho Novembri, Jan, 2014
 
 1. Defining Data Part I
 2. Defining Data Part II
@@ -10,7 +10,7 @@
 7. Advance Internal Table 2
 8. Write Statements
 9. Formatting Tehcniques 1
-10. Formatting Tehcniques 1
+10. Formatting Tehcniques 2
 11. Modularization (Events and SubRoutines)
 12. Modularization (Passing Parameters to SubRoutines)
 13. Modularization (Function Modules 1)
